@@ -1,4 +1,4 @@
-from pyrogram Client, filters
+from pyrogram import Client , filters
 from yt_dlp import YoutubeDL
 
 
